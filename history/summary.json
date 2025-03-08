@@ -6,17 +6,16 @@
     "slug": "olly-best",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 554,
-    "timeDay": 507,
-    "timeWeek": 612,
+    "timeDay": 550,
+    "timeWeek": 634,
     "timeMonth": 551,
     "timeYear": 554,
     "dailyMinutesDown": {
-      "2025-03-07": 11,
       "2024-03-25": 23
     }
   }
