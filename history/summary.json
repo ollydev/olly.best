@@ -4,18 +4,19 @@
     "url": "https://olly.best",
     "icon": "https://icons.duckduckgo.com/ip3/olly.best.ico",
     "slug": "olly-best",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 554,
+    "time": 553,
     "timeDay": 343,
     "timeWeek": 594,
     "timeMonth": 548,
     "timeYear": 553,
     "dailyMinutesDown": {
+      "2025-03-09": 0,
       "2024-03-25": 23
     }
   }
